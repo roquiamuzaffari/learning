@@ -1,2 +1,1 @@
-# learning
-learning github
+# try to learn github
